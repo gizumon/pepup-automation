@@ -1,0 +1,27 @@
+{
+    "url": {
+        "root"  : "https://pepup.life",
+        "login" : "https://pepup.life/users/sign_in",
+        "api"   : "https://pepup.life/api/v1/@me/measurements",
+        "regist": "https://pepup.life/scsk_mileage_campaigns"
+    },
+    "login": {
+        "user"    : "a.g0430t.s@gmail.com",
+        "password": "nara8739"
+    },
+    "date": {
+        "from"  : "2020-02-29", 
+        "to"    : "2020-03-01",
+        "format": "%Y-%m-%d"
+    },
+    "sleep": {
+        "time": 7
+    },
+    "step": {
+        "from": 8000,
+        "to"  : 12000 
+    },
+    "error": {
+        "limit": 5
+    }
+}
